@@ -1,0 +1,13 @@
+﻿  Generate.cpp
+d:\math for the boys\math\math\generate.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\math for the boys\math\math\generate.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Math.cpp
+d:\math for the boys\math\math\generate.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\math for the boys\math\math\generate.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\math for the boys\math\math\math.cpp(57): warning C4101: 'chk_print': unreferenced local variable
+  Generating code
+  35 of 317 functions (11.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Math.vcxproj -> D:\Math for the boys\Math\x64\Release\Math.exe

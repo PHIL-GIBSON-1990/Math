@@ -1,0 +1,5 @@
+﻿  Math.cpp
+d:\math for the boys\math\math\generate.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\math for the boys\math\math\generate.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\math for the boys\math\math\math.cpp(56): warning C4101: 'chk_print': unreferenced local variable
+  Math.vcxproj -> D:\Math for the boys\Math\Debug\Math.exe
